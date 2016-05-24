@@ -12,7 +12,7 @@ class ApplicationController < ActionController::API
     
     def authenticate_token
         authenticate_with_http_token do |token, options|
-            token == "odifuasdnfaf"
+            token == ENV['API_TOKEN']
         end
     end
     
