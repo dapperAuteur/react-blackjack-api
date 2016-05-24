@@ -1,0 +1,11 @@
+{
+    "name": "React Blackjack API",
+    "description": "A simple API to allow users to save their records",
+    "repository": "https://github.com/eloquently/react_blackjack_api",
+    "keywords": ["rails 5", "api"],
+    "env": {
+        "API_TOKEN": {
+            "description": "The token you will use to authenticate while using the API"
+        }
+    }
+}
