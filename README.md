@@ -1,24 +1,7 @@
-# README
+# React Blackjack Rails 5 Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails 5 API for part 4 of the [react blackjack guide](https://eloquent.ly/guides/react-blackjack-part-4).
 
-Things you may want to cover:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can deploy your own copy to Heroku using the button above.
