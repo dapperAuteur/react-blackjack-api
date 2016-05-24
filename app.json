@@ -7,5 +7,8 @@
         "API_TOKEN": {
             "description": "The token you will use to authenticate while using the API"
         }
+    },
+    "scripts": {
+        "postdeploy": "bundle exec rake db:migrate"
     }
 }
